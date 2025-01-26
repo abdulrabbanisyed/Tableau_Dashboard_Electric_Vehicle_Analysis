@@ -10,14 +10,20 @@ The EV Analysis Dashboard aims to:
 - Highlight geographic distribution of electric vehicle usage across counties and cities.
 - Analyze the relationship between EV types, battery ranges, and Clean Alternative Fuel Vehicle (CAFV) eligibility.
 - Provide insights into manufacturers, models, and EV market growth over time.
+- <img width="1470" alt="Screenshot 2025-01-26 at 4 01 49 AM" src="https://github.com/user-attachments/assets/58c28c3a-fb8e-49dd-901d-0df671694147" />
+
 
 ## Features
-
 - **Geographic Analysis**: Understand the distribution of EV registrations across counties and cities.
+<img width="1470" alt="Screenshot 2025-01-26 at 4 02 21 AM" src="https://github.com/user-attachments/assets/60cbfe45-f7ec-4d24-a394-9daed6ad969d" />  
 - **Electric Vehicle Types**: Compare Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs).
-- **Eligibility Insights**: Analyze how CAFV eligibility correlates with electric range and vehicle specifications.
+- <img width="1470" alt="Screenshot 2025-01-26 at 4 03 37 AM" src="https://github.com/user-attachments/assets/5b090722-0b58-4876-8cd0-aa58403b1074" />
+
 - **Brand Performance**: Explore popular manufacturers and their contributions to EV adoption.
+- <img width="1470" alt="Screenshot 2025-01-26 at 4 02 51 AM" src="https://github.com/user-attachments/assets/fd757bdf-2b25-4ac5-ba6b-21a4b4f92786" />
+
 - **Yearly Trends**: Discover trends in model years and EV registrations.
+<img width="1470" alt="Screenshot 2025-01-26 at 4 02 09 AM" src="https://github.com/user-attachments/assets/a91ec43e-affe-44aa-8b39-0e999c423bfd" />
 
 
 
