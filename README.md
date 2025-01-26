@@ -1,9 +1,9 @@
-# Electric Vehicle Analysis Dashboard 🚗⚡
+# Electric Vehicle Analysis Dashboard
 
 This project presents a comprehensive **Electric Vehicle (EV) Analysis Dashboard** built using **Tableau**. The dashboard utilizes a sample dataset to provide valuable insights into EV adoption, market trends, and environmental impact.
 
 
-## 🚀 Project Overview
+## Project Overview
 
 The EV Analysis Dashboard aims to:
 - Visualize trends in EV adoption based on vehicle registration data.
@@ -11,7 +11,7 @@ The EV Analysis Dashboard aims to:
 - Analyze the relationship between EV types, battery ranges, and Clean Alternative Fuel Vehicle (CAFV) eligibility.
 - Provide insights into manufacturers, models, and EV market growth over time.
 
-## 📊 Features
+## Features
 
 - **Geographic Analysis**: Understand the distribution of EV registrations across counties and cities.
 - **Electric Vehicle Types**: Compare Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs).
@@ -21,14 +21,14 @@ The EV Analysis Dashboard aims to:
 
 
 
-## 🛠️ Tools and Technologies
+## Tools and Technologies
 
 - **Tableau**: Used for creating interactive dashboards and visualizations.
 - **Data Sources**: Sample dataset containing details about electric vehicle registrations in Washington state.
 - **Data Cleaning**: Performed in **Excel** and **SQL** to prepare the data for visualization.
 
 
-## 📁 Dataset Details
+## Dataset Details
 
 The dataset contains the following fields:
 
